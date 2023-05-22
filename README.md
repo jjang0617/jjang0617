@@ -14,10 +14,9 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 </div>
+<br/>
 
 #### :pencil2: Study log
-  <br/>
  
 ![JJang0617's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJang0617&show_icons=true&theme=transparent)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
 </div>
