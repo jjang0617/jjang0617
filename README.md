@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/.Net-512BD4?style=flat&logo=.Net&logoColor=white"/>
+<img src="https://img.shields.io/badge/AdBlock-F40D12?style=flat&logo=AdBlock&logoColor=white"/>
+<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=PhotoShop&logoColor=white"/>
