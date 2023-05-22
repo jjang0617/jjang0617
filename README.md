@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=JSCoding)
+</div>
 
 <!--
 **jjang0617/jjang0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
