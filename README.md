@@ -4,7 +4,7 @@
 <div align="center">
   <br/><br/>
 
-  ####  :clipboard: Studying hard on my own
+  ####  :clipboard: Try My Best
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
