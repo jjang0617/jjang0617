@@ -14,5 +14,5 @@
 
 #### :pencil2: Study log
  
-![JJang0617's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJang0617&show_icons=true&theme=transparent)
+![JJang0617's stats]
 </div>
