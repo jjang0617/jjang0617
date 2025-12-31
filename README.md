@@ -13,6 +13,5 @@
 <br/>
 
 #### :pencil2: Study log
- 
-![JJang0617's stats]
+TBA
 </div>
