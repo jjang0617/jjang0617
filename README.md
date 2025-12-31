@@ -13,5 +13,5 @@
 <br/>
 
 #### :pencil2: Study log
-TBA
+TBU
 </div>
