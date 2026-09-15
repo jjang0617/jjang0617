@@ -36,7 +36,6 @@ Java / Spring Boot를 중심으로 백엔드를 개발하고 있습니다.
 - 주요 아키텍처 의사결정을 ADR로 문서화
 
 [Backend Repository](https://github.com/prgrms-aibe-devcourse/AIBE5_FinalProject_Team6_BE)  
-[Architecture / ADR](https://github.com/jjang0617/fandrops-docs)
 
 ---
 
